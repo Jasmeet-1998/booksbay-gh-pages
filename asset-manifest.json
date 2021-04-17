@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/booksbay-gh-pages/static/css/main.d54fe391.chunk.css",
+    "main.js": "/booksbay-gh-pages/static/js/main.e5ca7572.chunk.js",
+    "main.js.map": "/booksbay-gh-pages/static/js/main.e5ca7572.chunk.js.map",
+    "runtime-main.js": "/booksbay-gh-pages/static/js/runtime-main.62867e61.js",
+    "runtime-main.js.map": "/booksbay-gh-pages/static/js/runtime-main.62867e61.js.map",
+    "static/css/2.c5b90173.chunk.css": "/booksbay-gh-pages/static/css/2.c5b90173.chunk.css",
+    "static/js/2.e6fb96f7.chunk.js": "/booksbay-gh-pages/static/js/2.e6fb96f7.chunk.js",
+    "static/js/2.e6fb96f7.chunk.js.map": "/booksbay-gh-pages/static/js/2.e6fb96f7.chunk.js.map",
+    "index.html": "/booksbay-gh-pages/index.html",
+    "static/css/2.c5b90173.chunk.css.map": "/booksbay-gh-pages/static/css/2.c5b90173.chunk.css.map",
+    "static/css/main.d54fe391.chunk.css.map": "/booksbay-gh-pages/static/css/main.d54fe391.chunk.css.map",
+    "static/js/2.e6fb96f7.chunk.js.LICENSE.txt": "/booksbay-gh-pages/static/js/2.e6fb96f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62867e61.js",
+    "static/css/2.c5b90173.chunk.css",
+    "static/js/2.e6fb96f7.chunk.js",
+    "static/css/main.d54fe391.chunk.css",
+    "static/js/main.e5ca7572.chunk.js"
+  ]
+}
